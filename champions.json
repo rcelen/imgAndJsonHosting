@@ -6,7 +6,7 @@
 		"price": 4800,
 		"isMelee": true,
 		"addDate": "2011-01-18",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Renekton_Render.jpg",
 		"resource": "fury",
 		"abilities": ["Cull the Meek","Ruthless predator","Slice","Dominus"],
 		"location":{
@@ -22,7 +22,7 @@
 		"price": 1350,
 		"isMelee": true,
 		"addDate": "2009-10-01",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Nasus_Render.jpg",
 		"resource": "mana",
 		"abilities": ["Siphoning Strike","Wither","Spirit Fire","Fury of the Sands"],
 		"location":{
@@ -38,7 +38,7 @@
 		"price": 4800,
 		"isMelee": false,
 		"addDate": "2010-06-01",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Malzahar_Render.jpg",
 		"resource": "mana",
 		"abilities": ["Call of the Void","Void Swarm","Malefic Visions","Nether Grasp"],
 		"location":{
@@ -54,7 +54,7 @@
 		"price": 450,
 		"isMelee": true,
 		"addDate": "2012-05-23",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Darius_Render.jpg",
 		"resoure": "mana",
 		"abilities": ["Decimate","Crippling Strike","Apprehend","Noxian Guillotine"],
 		"location":{
@@ -70,7 +70,7 @@
 		"price": 450,
 		"isMelee": false,
 		"addDate": "2009-02-21",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Teemo_Render.jpg",
 		"resource": "mana",
 		"abilities": ["Blinding Dart","Move Quick","Toxic Shot","Noxious Trap"],
 		"location":{
@@ -86,7 +86,7 @@
 		"price": 3150,
 		"isMelee": true,
 		"addDate": "2009-09-19",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Katarina_Render.jpg",
 		"resource": "manaless",
 		"abilities": ["Bouncing Blade","Predaration","Shunpo","Death Lotus"],
 		"location":{
@@ -102,7 +102,7 @@
 		"price": 4444,
 		"isMelee": false,
 		"addDate": "2016-02-01",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Jhin_Render.jpg",
 		"resrouce": "mana",
 		"abilities": ["Dancing Grenade","Deadly Flourish","Captive Audience","Curtain Call"],
 		"location":{
@@ -118,7 +118,7 @@
 		"price": 4800,
 		"isMelee": false,
 		"addDate": "2015-03-12",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Bard_Render.jpg",
 		"resource": "mana",
 		"abilities": ["Cosmic Binding","Caretaker's Shrine","Magical Journey","Tempered Fate"],
 		"location":{
@@ -134,7 +134,7 @@
 		"price": 3150,
 		"isMelee": false,
 		"addDate": "2009-12-17",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Nidalee_Render.jpg",
 		"resource": "mana",
 		"abilities": ["Javelin Toss","Bushwhack","Primal Surge","Aspect of the Cougar"],
 		"location":{
@@ -150,7 +150,7 @@
 		"price": 1350,
 		"isMelee": true,
 		"addDate": "2010-02-24",
-		"img": "https://img",
+		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Mordekaiser_Render.jpg",
 		"Resource": "shield",
 		"abilities": ["Obliterate","Indestructible","Death's Grasp","Realm of Death"],
 		"location":{
