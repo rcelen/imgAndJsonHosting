@@ -1,0 +1,146 @@
+[
+	{
+		"id": 1,
+		"name": "Renekton",
+		"description": "Krokodil",
+		"winrate": 50,
+		"isMeta": true,
+		"addDate": "2012-01-01",
+		"img": "https://img",
+		"class": "bruiser",
+		"abilities": ["draai","slaag","spring","groot"],
+		"location":{
+			"id": 1,
+			"name": "Shurima",
+			"evil": false
+		}
+	},
+	{
+		"id": 2,
+		"name": "Nasus",
+		"description": "Hond",
+		"winrate": 50,
+		"isMeta": false,
+		"addDate": "2012-01-01",
+		"img": "https://img",
+		"class": "bruiser",
+		"abilities": ["draai","slaag","spring","groot"],
+		"location":{
+			"id": 1,
+			"name": "Shurima",
+			"evil": false
+		}
+	},
+	{
+		"id": 3,
+		"name": "Malzahar",
+		"description": "void mage",
+		"winrate": 49,
+		"isMeta": true,
+		"addDate": "2012-01-01",
+		"img": "https://img",
+		"class": "mage",
+		"abilities": ["draai","slaag","spring","groot"],
+		"location":{
+			"id": 2,
+			"name": "Void",
+			"evil": true
+		}
+	},
+	{
+		"id": 4,
+		"name": "Darius",
+		"description": "Axe dude",
+		"winrate": 52,
+		"isMeta": true,
+		"addDate": "2012-01-01",
+		"img": "https://img",
+		"class": "bruiser",
+		"abilities": ["draai","slaag","spring","groot"],
+		"location":{
+			"id": 3,
+			"name": "Noxus",
+			"evil": true
+		}
+	},
+	{
+		"id": 5,
+		"name": "Teemo",
+		"description": "Wasbeer",
+		"winrate": 56,
+		"isMeta": true,
+		"addDate": "2012-01-01",
+		"img": "https://img",
+		"class": "assassin",
+		"abilities": ["draai","slaag","spring","groot"],
+		"location":{
+			"id": 4,
+			"name": "Yordle",
+			"evil": true
+		}
+	},
+	{
+		"id": 6,
+		"name": "Katarina",
+		"description": "Blade girl",
+		"winrate": 49,
+		"isMeta": false,
+		"addDate": "2012-01-01",
+		"img": "https://img",
+		"class": "assassin",
+		"abilities": ["draai","slaag","spring","groot"],
+		"location":{
+			"id": 3,
+			"name": "Noxus",
+			"evil": true
+		}
+	},
+	{
+		"id": 7,
+		"name": "Jhin",
+		"description": "Gun dude",
+		"winrate": 55,
+		"isMeta": true,
+		"addDate": "2012-01-01",
+		"img": "https://img",
+		"class": "marksman",
+		"abilities": ["draai","slaag","spring","groot"],
+		"location":{
+			"id": 3,
+			"name": "Noxus",
+			"evil": true
+		}
+	},
+	{
+		"id": 8,
+		"name": "Bard",
+		"description": "Weird dude",
+		"winrate": 53,
+		"isMeta": true,
+		"addDate": "2012-01-01",
+		"img": "https://img",
+		"class": "support",
+		"abilities": ["draai","slaag","spring","groot"],
+		"location":{
+			"id": 3,
+			"name": "Noxus",
+			"evil": true
+		}
+	},
+	{
+		"id": 9,
+		"name": "Nidalee",
+		"description": "Animal",
+		"winrate": 47,
+		"isMeta": false,
+		"addDate": "2012-01-01",
+		"img": "https://img",
+		"class": "mage",
+		"abilities": ["draai","slaag","spring","groot"],
+		"location":{
+			"id": 3,
+			"name": "Noxus",
+			"evil": true
+		}
+	}
+]
