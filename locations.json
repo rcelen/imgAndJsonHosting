@@ -1,4 +1,37 @@
 [
     { 
+        "id": 0,
+		"name": "Shurima",
+		"evil": false
+    },
+    {
+        "id": 1,
+		"name": "Void",
+		"evil": true
+    },
+    {
+        "id": 2,
+		"name": "Noxus",
+		"evil": true
+    },
+    {
+        "id": 3,
+		"name": "Bandle City",
+		"evil": false
+    },
+    {
+        "id": 4,
+		"name": "Ionia",
+		"evil": false
+    },
+    {
+        "id": 5,
+		"name": "Runeterra",
+		"evil": false
+    },
+    {
+        "id": 6,
+		"name": "Wilderness",
+		"evil": true
     }
 ]
