@@ -55,7 +55,7 @@
 		"isMelee": true,
 		"addDate": "2012-05-23",
 		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Darius_Render.jpg",
-		"resoure": "mana",
+		"resource": "mana",
 		"abilities": ["Decimate","Crippling Strike","Apprehend","Noxian Guillotine"],
 		"location":{
 			"id": 2,
@@ -103,7 +103,7 @@
 		"isMelee": false,
 		"addDate": "2016-02-01",
 		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Jhin_Render.jpg",
-		"resrouce": "mana",
+		"resource": "mana",
 		"abilities": ["Dancing Grenade","Deadly Flourish","Captive Audience","Curtain Call"],
 		"location":{
 			"id": 4,
@@ -151,7 +151,7 @@
 		"isMelee": true,
 		"addDate": "2010-02-24",
 		"img": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/Mordekaiser_Render.jpg",
-		"Resource": "shield",
+		"resource": "shield",
 		"abilities": ["Obliterate","Indestructible","Death's Grasp","Realm of Death"],
 		"location":{
 			"id": 2,
