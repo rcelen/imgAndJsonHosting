@@ -1,37 +1,51 @@
 [
     { 
         "id": 0,
-		"name": "Shurima",
-		"evil": false
+	"name": "Shurima",
+	"evil": false,
+	"description":"The empire of Shurima was once a thriving civilization that spanned an entire continent. Forged in a bygone age by the mighty god-warriors of the Ascended Host, it united all the disparate peoples of the south, and enforced a lasting peace between them. Few dared to rebel. Those that did, like the accursed nation of Icathia, were crushed without mercy. However, after several thousand years of growth and prosperity, the failed Ascension of Shurima’s last emperor left the capital in ruins, and tales of the empire’s former glory became little more than myth. Now, most of the nomadic inhabitants of Shurima’s deserts eke out a meager existence from the unforgiving land. Some have built small outposts to defend the few oases, while others delve into long lost catacombs in search of the untold riches that must surely lay buried there. There are also those who live as mercenaries, taking coin for their service before disappearing back into the lawless wastelands. Still, a handful dare to dream of a return to the old ways. Indeed, more recently the tribes have been stirred by whispers from the heart of the desert—that their emperor Azir has returned, to lead them into a new, wondrous age.",
+    "imgUrl": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/locationImages/shurima_crest_icon.png"
     },
     {
         "id": 1,
-		"name": "Void",
-		"evil": true
+	"name": "The Void",
+	"evil": true,
+	"description":"Screaming into existence with the birth of the universe, the Void is a manifestation of the unknowable nothingness that lies beyond. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing. To be a mortal touched by this power is to suffer an agonizing glimpse of eternal unreality, enough to shatter even the strongest mind. Denizens of the Void realm itself are construct-creatures, often of only limited sentience, but tasked with a singular purpose—to usher in total oblivion across Runeterra.",
+    "imgUrl": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/locationImages/void_crest_icon.png"
     },
     {
         "id": 2,
-		"name": "Noxus",
-		"evil": true
+	"name": "Noxus",
+	"evil": true,
+	"description":"Noxus is a powerful empire with a fearsome reputation. To those beyond its borders, it is brutal, expansionist, and threatening, yet those who look past its warlike exterior see an unusually inclusive society, where the strengths and talents of its people are respected and cultivated. The Noxii were once fierce barbarian tribes, until they stormed the ancient city that now lies at the heart of their domain. Under threat from all sides, they aggressively took the fight to their enemies, pushing their borders outward with each passing year. This struggle for survival has made modern Noxians a deeply proud people who value strength above all—though that strength can manifest in many different forms. Anyone can rise to a position of power and respect within Noxus if they display the necessary aptitude, regardless of social standing, background, homeland, or wealth. Those who are able to wield magic are held in particularly high esteem, and are actively sought out in order that their special talents may be honed and best harnessed for the benefit of the empire. But in spite of this meritocratic ideal, the old noble houses still wield considerable power… and some fear that the greatest threat to Noxus comes not from its enemies, but from within.",
+    "imgUrl": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/locationImages/noxus_crest_icon.png"
     },
     {
         "id": 3,
-		"name": "Bandle City",
-		"evil": false
+	"name": "Bandle City",
+	"evil": false,
+	"description":"Opinions differ as to where exactly the home of the yordles is to be found, though a handful of mortals claim to have traveled unseen pathways to a land of curious enchantment beyond the material realm. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders, and end up lost in a dream... In Bandle City, it is said that every sensation is heightened for non-yordles. Colors are brighter. Food and drink intoxicates the senses for years and, once tasted, will never be forgotten. The sunlight is eternally golden, the waters crystal clear, and every harvest brings a fruitful bounty. Perhaps some of these claims are true, or maybe none—for no two taletellers ever seem to agree on what they actually saw. Only one thing is known for certain, and that is the timeless quality of Bandle City and its inhabitants. This might explain why those mortals who find their way back often appear to have aged tremendously, while many more never return at all.",
+    "imgUrl": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/locationImages/bandle_city_crest_icon.png"
     },
     {
         "id": 4,
-		"name": "Ionia",
-		"evil": false
+	"name": "Ionia",
+	"evil": false,
+	"description":"Surrounded by treacherous seas, Ionia is composed of a number of allied provinces scattered across a massive archipelago, known to many as the First Lands. Since Ionian culture has long been shaped by the pursuit of balance in all things, the border between the material and spirit realms tends to be more permeable here, especially in the wild forests and mountains. Although these lands’ enchantments can be fickle, its creatures dangerous and fae, for many centuries most Ionians led lives of plenty. The warrior monasteries, provincial militias—and even Ionia itself—had been enough to protect them. But that ended twelve years ago, when Noxus attacked the First Lands. The empire’s seemingly endless warhosts savaged Ionia, and were only defeated after many years, and at great cost. Now, Ionia exists in an uneasy peace. Different reactions to the war have divided the region—some groups, such as the Shojin monks or the Kinkou, seek a return to isolationist pacifism, and pastoral traditions. Other more radical factions, such as the Navori Brotherhood and the Order of Shadow, demand a militarization of the land’s magic, to create a single, unified nation that can take vengeance on Noxus. The fate of Ionia hangs in a delicate balance that few are willing to overturn, but all can feel shifting uneasily beneath their feet.",
+    "imgUrl": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/locationImages/ionia_crest_icon.png"
     },
     {
         "id": 5,
-		"name": "Runeterra",
-		"evil": false
+	"name": "Runeterra",
+	"evil": false,
+	"description":"Not bound by regions, Runeterrans walk their own paths, forging their destinies through pure volition.",
+    "imgUrl": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/locationImages/runeterra_crest_icon.png"
     },
     {
         "id": 6,
-		"name": "Wilderness",
-		"evil": true
+	"name": "Ixtal",
+	"evil": false,
+	"description":"Renowned for its mastery of elemental magic, Ixtal was one of the first independent nations to join the Shuriman empire. In truth, Ixtali culture is much older—part of the great westward diaspora that gave rise to civilizations including the Buhru, magnificent Helia, and the ascetics of Targon—and it is likely they played a significant role in the creation of the first Ascended. But the mages of Ixtal survived the Void, and later the Darkin, by distancing themselves from their neighbors, drawing the wilderness around them like a shield. While much had already been lost, they were committed to the preservation of what little remained… Now, secluded deep in the jungle for thousands of years, the sophisticated arcology-city of Ixaocan remains mostly free of outside influence. Having witnessed from afar the ruination of the Blessed Isles and the Rune Wars that followed, the Ixtali view all the other factions of Runeterra as upstarts and pretenders, and use their powerful magic to keep any intruders at bay.",
+    "imgUrl": "https://raw.githubusercontent.com/rcelen/imgAndJsonHosting/main/images/locationImages/ixtal_crest_icon.png"
     }
 ]
