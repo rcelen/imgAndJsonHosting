@@ -43,7 +43,7 @@
 		"abilities": ["Call of the Void","Void Swarm","Malefic Visions","Nether Grasp"],
 		"location":{
 			"id": 1,
-			"name": "Void",
+			"name": "The Void",
 			"evil": true
 		}
 	},
